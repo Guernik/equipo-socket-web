@@ -1,10 +1,10 @@
 ## Cosas propias del team
 
 ### Jira
-[jira.socket.team](jira.socket.team)
+[http://jira.socket.team](http://jira.socket.team)
 
 ### Drive
-[drive.socket.team](drive.socket.team)
+[http://drive.socket.team](http://drive.socket.team)
 
 ### Discord
 [https://discord.gg/deEFKD](https://discord.gg/deEFKD)
